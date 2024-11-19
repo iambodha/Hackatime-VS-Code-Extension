@@ -15,7 +15,8 @@ Welcome to the **Hackatime VS Code Extension**! This project integrates [Hackati
 
 ## Screenshot 🖼️
 
-![Hackatime VS Code Extension Screenshot](./path-to-your-screenshot.png)
+![Hackatime VS Code Extension Screenshot](https://github.com/user-attachments/assets/41699723-70a1-4d33-a5db-01b8271577a9)
+
 
 *Example of an interactive stats graph displayed in VS Code.*
 
